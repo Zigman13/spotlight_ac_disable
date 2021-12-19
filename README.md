@@ -6,6 +6,7 @@ Spotlight enable/disable when ac on/off.
 3. Setup as osx root cronjob for every 5,10 etc minutes via crontab -e, like this:
 
 su root
+
 crontab -e
 
 and add this line
